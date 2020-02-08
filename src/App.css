@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+    display: flex;
+    border: solid;
+    border-width: 0px;
+    text-align: center;
+}
+
+.main-table {
+    margin: 1em;
+    display: inline-block;
+}
+
+.selection-table {
+    margin: 1em;
+    display: inline-block;
+}
+
+.block {
+    padding: 9px;
+    border: solid;
+    border-width: 0.5px;
+    background: beige;
+    width: 10em;
+    height: 10em;
+}
+
+img {
+    max-height:100%;
+    max-width:100%
+}
+
+
